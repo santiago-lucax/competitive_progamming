@@ -5,6 +5,7 @@
 *.out
 *.app
 codeforces/build/
+testes/
 
 # Ignorar arquivos de entrada/saída de teste locais
 
