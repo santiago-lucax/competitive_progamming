@@ -4,7 +4,7 @@
 *.o
 *.out
 *.app
-build/
+codeforces/build/
 
 # Ignorar arquivos de entrada/saída de teste locais
 
