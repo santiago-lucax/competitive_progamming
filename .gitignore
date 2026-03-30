@@ -1,0 +1,11 @@
+# Ignorar executáveis e binários
+
+*.exe
+*.o
+*.out
+*.app
+build/
+
+# Ignorar arquivos de entrada/saída de teste locais
+
+*.txt
