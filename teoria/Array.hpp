@@ -43,6 +43,15 @@ public:
         }
     }
 
+    void swap(int pos1, int pos2) {
+        T temp = this->data[pos1];
+        this->data[pos1] = this->data[pos2];
+        this->data[pos2] = temp;
+    }
+
+    // a ser substituida
+    void sort() {}
+
     ~Array() {
         delete[] data;
         data = nullptr;
