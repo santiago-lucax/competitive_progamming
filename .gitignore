@@ -1,12 +1,10 @@
 # Ignorar executáveis e binários
-
 *.exe
 *.o
 *.out
 *.app
-codeforces/build/
+codeforces/800/build/
 testes/
 
 # Ignorar arquivos de entrada/saída de teste locais
-
 *.txt
