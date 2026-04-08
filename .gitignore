@@ -4,7 +4,7 @@
 *.out
 *.app
 codeforces/800/build/
-testes/
+practice/
 teoria/alg_search/build
 teoria/data_struct/build
 
