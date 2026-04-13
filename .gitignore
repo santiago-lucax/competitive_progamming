@@ -5,8 +5,6 @@
 *.app
 codeforces/800/build/
 practice/
-teoria/alg_search/build
-teoria/data_struct/build
 
 # Ignorar arquivos de entrada/saída de teste locais
 *.txt
