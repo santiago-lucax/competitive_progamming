@@ -11,6 +11,7 @@ This repository is dedicated to studying algorithms, data structures, and proble
 ## Structure
 - **codeforces/:** Problems solved on the Codeforces platform.
 - **beecrowd/:** Problems solved on the Beecrowd platform.
+- **atcoder/:** Problems solved on the AtCoder platform.
 - **library/:** Practicing algorithms.
 - **boilerplates/:** Boilerplates for assist in the solutions.
   
